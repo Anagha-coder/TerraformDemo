@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "semiotic-quasar-400006",
+  "private_key_id": "34c47a98e7878915ba3f62bc1d2273d2417718c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1W7XAtUpxRKyN\n9Httwy7XNWZJ3gLnKw4aTEr+HTa6XYLcIzjTbsk6HcsC2NrSP6cjQq8MR+f/FZwo\nfxsPlUgufoOibnchmR73KvDfWyFBmmyexulg48ThstFIWxo6yPXtxWEwD1wL0SMI\nDC/zB9BV4Mp1NHbue2KhImPVaXBzYo/j3MWINO2qHJJoiHspA54ChuW0BpqZxKS7\nm+vqlCRyzdTEK2xIkD+DvnNYCPNKIkK6BVIL8ew9YUEwXOxRsgmb42ZRAtkyGfyS\nkfbObL0BogNlKdODxct06yihA5Vum1J3a3wf3EYpIX5260l6NriPYKvBRKs2KZ4M\nPc4H78LFAgMBAAECggEAHmE1vcmQpg85MZFgALfGt62+DAco6NT1SJH5qP43Tfo+\nosYyrXZcNoRJntk5NKmNg7JWtOGxuvEBhuYd4Bsja4htYA8NnT7zaTeUAHJZTI5D\n/kf3Ta/x6dXkyXBbYTgLPFCJUn3sLx2SNvWlrZokO9KLT51hg9r+31utqhD+0ZEL\nGTLJdMyvF8+f84zbxT93utGsN5OalJ/9Gi4isQIfS0EJ24QB6pZrPzYcXtsC+PgX\nwZ/b8RnUcFmYelwgQTRHUBoOQS/WVRK5AETUYBfGj2uTrwlavSQhD2wdy/Ufw/rj\nORtcH0OzWSxXoBCgNtsU2yspkU15idfGquWdg7Hr2QKBgQD1Yr/UGGza5TBBzTiq\nK01wyQi8kOtH05C+YQziKm+gbSXtLO8zMd6qx5HWs/FdtHWlgLwwyTE+k8xhihe9\nDfE8s54jASpOyoJ6CHdKYWLDt52U0tCIQ0yNBiU6IVU348mdj3AA8wKik0mEPUG+\nK+WP/9+TpfXN4xDV4fu09kcN6QKBgQC9M/WkNV7ThdiuHHM5cIEz3p2iax0XhwNN\nzEj00Yx1TJQEVHiCdYqCISFyMhbOoPn/j2BIsx0r7gKF1omuWDhv8xZ1pVGkBz+w\ngEd9LY5FBi370Sm8DouUVo1szDQm6lvTQXpk94koQUSDilVxsMwXJDJG3hnY2IaS\nkwjnm7s4fQKBgQCWZA05ija8+ZZX3dUKxjtSEoPePdtVTB777zMcMfH0GrER6WY4\ntCnJ9UI2mlYlngI0iu/L3qLlvWOXrDDcV30wPM2Amqg5XfgVnratyX3kgdZ8bbAM\ns2JpVAjg1akK9fqNLGnyyv0kcqyt9XUjfnfVh3aZYS+DHdUloLjJsd7ecQKBgHj3\neI0VZlxczg17uRu3V5P/N8+5Ji99rdoWy2pjc6cnX9do3meimPzcC9NEPRq9Bzmi\nxI+WnQcSNGC3qu1iECtbQzfSi+EQlWLWkV5yOuzcp5fBwiovLoSX1fICmTFsU2s9\nCPD25qVrHU/wqPJ4c/Qzu0VeCS6AOYILKf1Srx/NAoGBAIxOO2SYtoHif3Nn0Oqv\nLZtbE2ykcXBDaFvUy+jVd9x9oCueqzOagAw0qyZnjkUtGUNRftryi849vQ8bYdK5\nLJ+UhgjyPTxxgISpZstR1xvwlQPvTkf1Fikghk8WaWbC3SLLJPQhHOJCd6msUn9q\nE7EoCYQJYNTN2L1v75/1nhjx\n-----END PRIVATE KEY-----\n",
+  "client_email": "anaghaterraformdemosa@semiotic-quasar-400006.iam.gserviceaccount.com",
+  "client_id": "107188120903158859423",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anaghaterraformdemosa%40semiotic-quasar-400006.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
