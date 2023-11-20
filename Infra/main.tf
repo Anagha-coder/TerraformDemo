@@ -1,7 +1,7 @@
 # Bucket to store Website
 
 resource "google_storage_bucket" "Website" {
-    name     = "example-website"
+    name     = "terraformdemo-website-by-anagha"
     location = "US"
   
 }
@@ -21,6 +21,6 @@ resource "google_storage_object_access_control" "public_rule" {
 resource "google_storage_bucket_object" "static_site_src"{
     name = "index.html"
     source= "../website/index.html"
-    bucket = goofle_storage_bucket.Website.name
+    bucket = google_storage_bucket.Website.name
 }
 
